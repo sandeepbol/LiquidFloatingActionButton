@@ -8,6 +8,7 @@
 
 import Foundation
 import QuartzCore
+import UIKit
 
 // LiquidFloatingButton DataSource methods
 @objc public protocol LiquidFloatingActionButtonDataSource {
